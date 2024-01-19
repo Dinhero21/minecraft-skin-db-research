@@ -125,3 +125,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# external files
+
+# (don't) generate them with https://github.com/Dinhero21/minecraft-skin-db-generator
+skins*
+
+# download here: https://file.io/h4A4wrLj8ZlG
+metaskin
